@@ -1176,6 +1176,7 @@ exports.handler = (event, context, callback) => {
         {'source': '^/Hello from SQS!'},
         {'source': '^/Hello from SQS!'},
         {'source': '^/Hello from SQS!'},
+        {'source': '^/Hello from SQS!'},
 
 	];
 	for (let i = 0; i < oldSiteUris.length; i++) {
